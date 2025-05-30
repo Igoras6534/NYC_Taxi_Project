@@ -13,4 +13,4 @@ Celem projektu jest **zbudowanie modelu predykcyjnego czasu przejazdu taksówką
 - Eksploracyjna analiza danych (EDA).
 - Inżynieria cech i przygotowanie danych do modelowania.
 - Budowa i ocena modeli predykcyjnych.
-- Interpretacja wyników i rekomendacje biznesowe.
+- Interpretacja wyników.
